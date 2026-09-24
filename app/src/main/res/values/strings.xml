@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nightmare Reels Blocker</string>
+    <string name="accessibility_service_description">Watches Instagram to detect when Reels is open, so Nightmare Reels Blocker can show its blocking screen. It only reads Instagram\'s screen content — nothing is sent anywhere.</string>
+</resources>

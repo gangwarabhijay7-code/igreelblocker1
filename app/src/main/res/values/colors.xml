@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nb_black">#000000</color>
+    <color name="nb_dark_bg">#0D0000</color>
+    <color name="nb_blood">#8B0000</color>
+    <color name="nb_bright_red">#FF1A1A</color>
+    <color name="nb_text_muted">#999999</color>
+    <color name="nb_text_dim">#555555</color>
+    <color name="nb_white">#EEEEEE</color>
+</resources>
